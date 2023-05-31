@@ -3,7 +3,7 @@ date: '2022-08-6'
 title: 'Chief Software Architect'
 company: 'Reprezentme Ltd'
 location: 'Gaki, Abuja, Nigeria'
-range: 'August 2022 - Present'
+range: 'August 2022 - March 2023'
 url: 'https://www.reprezentme.com'
 ---
 

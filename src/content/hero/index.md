@@ -1,8 +1,8 @@
 ---
 title: 'Hi, I am'
 name: 'Samson Kwaku Nkrumah'
-subtitle: 'I bring solution to challenging problems of humanity'
+subtitle: 'I solve problems and make life better using code'
 contactText: 'Get In Touch'
 ---
 
-A smart software engineer based in India, specialised in design & development of scalable applications. I Am Currently working at [Fairwords](https://fairwords.com) as a Senior Software Engineer, ask me about it. I am currently a student in [LPU](https://www.lpu.in/)
+A smart software engineer based in India, specialised in design & development of scalable applications. I Am Currently working at [WebRTC.Ventures](https://webrtc.ventures) as a Software Engineer, ask me about it. I am recently graduated from [LPU](https://www.lpu.in/) in India.

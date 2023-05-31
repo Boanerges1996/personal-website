@@ -26,10 +26,10 @@ module.exports = {
       name: 'Codepen',
       url: 'https://codepen.io/boanerges1996',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/opodame/',
-    // },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/samsonkwakunkrumah/',
+    },
     {
       name: 'Twitter',
       url: 'https://twitter.com/samson_nkrumah',
@@ -55,7 +55,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@opodame',
+  twitterHandle: '@samson_nkrumah',
   googleAnalyticsID: 'UA-127661885-1',
 
   headerHeight: 100,

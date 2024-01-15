@@ -3,7 +3,7 @@ date: '2021-09-12'
 title: 'Software Engineer'
 company: 'Reprezentme Ltd'
 location: 'Gaki, Abuja, Nigeria'
-range: 'September 2021 - March 2022'
+range: 'September 2021 - March 2023'
 url: 'https://www.reprezentme.com'
 ---
 
